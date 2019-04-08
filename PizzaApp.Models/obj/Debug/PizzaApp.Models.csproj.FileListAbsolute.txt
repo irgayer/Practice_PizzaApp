@@ -1,0 +1,6 @@
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\bin\Debug\PizzaApp.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\bin\Debug\PizzaApp.Models.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.pdb
