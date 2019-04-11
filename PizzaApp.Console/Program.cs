@@ -1,4 +1,4 @@
-﻿using System;
+﻿using PizzaApp.Services;
 
 namespace PizzaApp.Console
 {
@@ -8,8 +8,9 @@ namespace PizzaApp.Console
         {
             System.Console.OutputEncoding = System.Text.Encoding.Unicode;
 
-            PizzaWeb pizza = new PizzaWeb();
+            PizzaApplication pizza = new PizzaApplication();
             pizza.Run();
+
 
             System.Console.ReadLine();
         }

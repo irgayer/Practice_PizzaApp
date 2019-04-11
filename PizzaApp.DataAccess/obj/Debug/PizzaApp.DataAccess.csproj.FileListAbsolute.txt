@@ -9,3 +9,14 @@ C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.DataAccess\obj\D
 C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.csproj.CopyComplete
 C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.dll
 C:\Users\ИргалиевЕ.CORP\source\repos\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\DatabasePizza.mdf
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\DatabasePizza_log.ldf
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.DataAccess.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.DataAccess.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Models.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.csproj.CopyComplete
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\Practice_PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.pdb

@@ -18,7 +18,6 @@ namespace PizzaApp.DataAccess
         {
             connectionString = ConfigurationManager.ConnectionStrings["appConnectionString"].ConnectionString;
             providerName = ConfigurationManager.ConnectionStrings["appConnectionString"].ProviderName;
-
             providerFactory = DbProviderFactories.GetFactory(providerName);
         }
 

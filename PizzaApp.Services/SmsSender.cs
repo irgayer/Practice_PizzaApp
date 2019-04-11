@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Twilio;
 using Twilio.Rest.Api.V2010.Account;
 
@@ -19,13 +20,19 @@ namespace PizzaApp.Services
 
             for (int i = 0; i < 4; i++) {
                 code += random.Next(10).ToString();
-            } 
-
-            var message = MessageResource.Create(
-            body: code,
-            from: new Twilio.Types.PhoneNumber(MY_NUMBER),
-            to: new Twilio.Types.PhoneNumber(number)
-            );
+            }
+            try
+            {
+                var message = MessageResource.Create(
+                            body: code,
+                            from: new Twilio.Types.PhoneNumber(MY_NUMBER),
+                            to: new Twilio.Types.PhoneNumber(number)
+                            );
+            }
+            catch (FileLoadException)
+            {
+                return code;
+            }
 
             return code;
         }

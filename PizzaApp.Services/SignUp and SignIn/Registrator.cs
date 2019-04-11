@@ -13,10 +13,12 @@ namespace PizzaApp.Services.SignUp_and_SignIn
             PasswordWriter passwordWriter = new PasswordWriter();
             SmsSender smsSender = new SmsSender();
             newUser = new User();
+          
             string usLoginStr, usPsswdStr, usFullNameStr, usPhoneStr;
 
             WriteLine("Новый пользователь,");
             WriteLine("Введите логин:");
+
             usLoginStr = ReadLine();
             for (int i = 0; i < users.Count; i++)
             {
